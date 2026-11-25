@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**awosikafola94-bit/awosikafola94-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student and aspiring engineer focused on building reliable systems and sharpening my technical foundation. 
 
-Here are some ideas to get you started:
+#### 🎯 Current Learning Goals
+- **Core Focus:** Mastering cloud architecture, infrastructure-as-code, and core networking concepts.
+- **Tools & Languages:** Practicing Linux administration, Bash scripting, Python, and Terraform.
+- **Certification Target:** Currently preparing for the AWS Certified Solutions Architect – Associate exam.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ What I'm Working On
+- Building hands-on labs to automate multi-account cloud environments and security governance.
+- Documenting my study notes, architecture diagrams, and troubleshooting workflows in public repositories.
+
+#### 📫 How to Reach Me
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-handle)
+- **Email:** your.email@example.com
